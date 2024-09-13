@@ -24,6 +24,4 @@ Muitas pessoas confundem apostas esportivas com jogos de azar. Neste projeto, un
 
 
 ## 🚀 Resultado
-O Vídeo gerado pode ser conferido abaixo ou no link: [clique aqui.](https://youtu.be/GE5xyPsz5_U)
-
-https://github.com/maurilyo/lab-natty-or-not/assets/107958723/fd0db285-1201-40e3-a70c-6d7420f4f158
+O Vídeo gerado pode ser conferido no link: [clique aqui.](https://youtu.be/GE5xyPsz5_U)
