@@ -1,51 +1,29 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# 📻 Apostas esportivas vs Jogos de Azar!🎙
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Muitas pessoas confundem apostas esportivas com jogos de azar. Neste projeto, unimos nossos conhecimentos pessoais às capacidades avançadas das ferramentas de IA generativa para esclarecer esse tema. Vamos desde a explicação de conceitos básicos até o embasamento estatístico e a utilização de Big Data, desmistificando as diferenças entre essas duas atividades. Nosso objetivo é proporcionar uma compreensão clara e fundamentada, destacando como a análise e a estratégia desempenham papéis cruciais nas apostas esportivas, enquanto a sorte é o fator predominante nos jogos de azar.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+<p><strong>Para o desenvolvimento do projeto, foram utilizadas as seguintes IAs:</strong></p>
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
+<ul>
+    <li><strong>ChatGPT:</strong>
+        <p style="margin-left: 20px;">Iniciei o projeto solicitando ao ChatGPT a criação de um roteiro com base em pdfs sobre o assunto.</p>
+    </li>
+    <li><strong>Copilot:</strong>
+        <p style="margin-left: 20px;">Utilizei o roteiro elaborado para solicitar a transcrição em forma de palestra sobre o tema.</p>
+    </li>    
+    <li><strong>Elevenlabs:</strong>
+        <p style="margin-left: 20px;">Com o Elevenlabs utilizei a opção de <b>Text to Spreech</b> para gerar o audio do palestrante</p>
+    </li>
+    <li><strong>D-id.:</strong>
+        <p style="margin-left: 20px;">Por fim com ajuda do D-ID foi possivel criar um avatar virtual para o papel de palestrante utilizando o aúdio gerado pela ferramenta anterior.</p>
+    </li>
+</ul>
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
 
-### Exemplos e Insigths
+## 🚀 Resultado
+O Vídeo gerado pode ser conferido abaixo ou no link: [clique aqui.](https://youtu.be/GE5xyPsz5_U)
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+https://github.com/maurilyo/lab-natty-or-not/assets/107958723/fd0db285-1201-40e3-a70c-6d7420f4f158
